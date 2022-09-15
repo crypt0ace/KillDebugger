@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\KillDebugger\bin\Release\KillDebugger.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\KillDebugger\bin\Release\KillDebugger.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\KillDebugger\bin\Release\KillDebugger.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\KillDebugger\obj\Release\KillDebugger.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\KillDebugger\obj\Release\KillDebugger.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\KillDebugger\obj\Release\KillDebugger.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\KillDebugger\obj\Release\KillDebugger.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\KillDebugger\obj\Release\KillDebugger.pdb
